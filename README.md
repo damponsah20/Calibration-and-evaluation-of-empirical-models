@@ -1,6 +1,6 @@
 # Calibration and Evaluation of Sunshine-Based Empirical Models for Estimating Daily Solar Radiation in Northern Ghana
 
-Accurate estimation of solar radiation is essential for optimizing solar energy applications, agricultural practices, and environmental management, particularly in regions with limited measured data. This project focuses on the calibration and evaluation of sunshine-based empirical models to estimate daily solar radiation in the northern region of Ghana.
+Accurate estimation of solar radiation is essential for optimizing solar energy applications, agricultural practices and environmental management, particularly in regions with limited measured data. This project focuses on the calibration and evaluation of sunshine-based empirical models to estimate daily solar radiation in the northern region of Ghana.
 
 ## Objectives
 
